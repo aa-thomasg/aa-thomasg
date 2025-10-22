@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+
+
+
+My Name is Thomas Ghebray and I am an Engineer for the CCTV Team.
+I started in July and have been loving this team ever since. *Not Really* 
+
+
+
+
+
 <!--
 **aa-thomasg/aa-thomasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
