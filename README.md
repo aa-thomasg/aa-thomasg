@@ -5,7 +5,7 @@
 
 
 My Name is Thomas Ghebray and I am an Engineer for the CCTV Team.
-I started in July and have been loving this team ever since. *Not Really* 
+I started in July and have been loving this team ever since ... Not Really
 
 
 
